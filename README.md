@@ -204,6 +204,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jens van Wijhe](https://jens.ai)
 - [Jeremy Grifski](https://jeremygrifski.com/)
 - [Jerry Hirsch](https://jerryhirsch.com/)
+- [Jihad Ghannoum](https://Ghannoum99.github.io/)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
 - [Jordan Liu](https://jordanxliu.com)
